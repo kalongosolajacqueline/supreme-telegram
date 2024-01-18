@@ -1,0 +1,33 @@
+# Personal Information
+
+Hello, my name is Jacquelone Kalongosola, and here's some information about me!
+
+### Why I'm Taking This Class
+
+I'm enrolled in this program to increase my understanding of coding and to aid me in my career as a computer programmer.
+
+# Favorite Things in Barcelona
+
+When it comes to captivating destinations, **Barcelona** stands out as a city rich in culture and history. From the iconic architectural wonders crafted by *Antoni Gaudí* to the breathtaking beauty of the [Sagrada Familia](https://www.barcelona-tourist-guide.com/nl/gaudi/sagrada-familia.html), visitors are treated to a visual feast that transcends time.
+
+![Sagrada Familia](https://www.getyourguide.nl/sagrada-familia-l2699/skip-the-line-sagrada-familia-toegang-ticket-t50027/?ranking_uuid=cf4ef1f7-2e09-44d0-aa1c-2e7e75b9e4a9)
+
+The bustling energy of **La Rambla Boulevard** adds another layer to the city's charm, offering a vibrant tapestry of shops, cafes, and street performers. As you stroll along this iconic promenade, you'll feel the pulse of Barcelona's dynamic atmosphere.
+
+In Barcelona, every corner tells a story, and every landmark is a testament to the city's enduring allure. Whether you're exploring architectural marvels or enjoying the coastal breeze, Barcelona promises an unforgettable journey through time and culture.
+
+## Professional Background
+
+I have experience in social work, particularly with children who have special needs.
+
+## Previous Experiences with Coding
+
+I have no experience in coding.
+
+## Fun Facts
+
+I've traveled to all African countries but only a few in Europe. I adore cooking and dancing, as well as discovering and experiencing different cultures.
+
+## Conclusion
+
+Thanks for getting to know a bit about me!
